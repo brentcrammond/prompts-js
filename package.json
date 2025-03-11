@@ -1,9 +1,9 @@
 {
   "name": "prompts-js",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "async alternatives to browser alert() and prompt() and confirm()",
   "main": "index.js",
-  "homepage": "https://github.com/simonw/prompts-js",
+  "homepage": "https://github.com/brentcrammond/prompts-js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simonw/prompts-js.git"
+    "url": "git+https://github.com/brentcrammond/prompts-js"
   },
   "keywords": [
     "alert",

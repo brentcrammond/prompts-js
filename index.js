@@ -1,4 +1,4 @@
-const Prompts = (function () {
+export const Prompts = (function () {
   // Common styles
   const dialogStyle = {
     border: "none",
